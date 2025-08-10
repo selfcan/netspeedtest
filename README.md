@@ -1,5 +1,17 @@
-## 访问数：![hello](https://views.whatilearened.today/views/github/sirpdboy/deplives.svg)[![](https://img.shields.io/badge/TG群-点击加入-FFFFFF.svg)](https://t.me/joinchat/AAAAAEpRF88NfOK5vBXGBQ)
-### 访问数：[![](https://visitor-badge.glitch.me/badge?page_id=sirpdboy-visitor-badge)] [![](https://img.shields.io/badge/TG群-点击加入-FFFFFF.svg)](https://t.me/joinchat/AAAAAEpRF88NfOK5vBXGBQ)
+![hello](https://views.whatilearened.today/views/github/sirpdboy/deplives.svg) [![](https://img.shields.io/badge/TG群-点击加入-FFFFFF.svg)](https://t.me/joinchat/AAAAAEpRF88NfOK5vBXGBQ)
+
+<h1 align="center">
+  <br>Net Speed Test<br>
+</h1>
+
+  <p align="center">
+
+  <a target="_blank" href="https://github.com/sirpdboy/luci-app-netspeedtest/releases">
+    <img src="https://img.shields.io/github/release/sirpdboy/luci-app-netspeedtest.svg?style=flat-square&label=NetSpeedTest&colorB=green">
+  </a>
+</p>
+
+[中文] | [English](README.md) 
 
 ![screenshots](https://raw.githubusercontent.com/sirpdboy/openwrt/master/doc/说明1.jpg)
 
@@ -132,53 +144,41 @@ luci-app-netspeedtest 网络速度诊断测试（包括：内网网页版测速�
 
 
 
+## 使用与授权相关说明
+ 
+- 本人开源的所有源码，任何引用需注明本处出处，如需修改二次发布必告之本人，未经许可不得做于任何商用用途。
+
+
 # My other project
 
 - 路由安全看门狗 ：https://github.com/sirpdboy/luci-app-watchdog
-  
 - 网络速度测试 ：https://github.com/sirpdboy/luci-app-netspeedtest
-
 - 计划任务插件（原定时设置） : https://github.com/sirpdboy/luci-app-taskplan
-
 - 关机功能插件 : https://github.com/sirpdboy/luci-app-poweroffdevice
-
 - opentopd主题 : https://github.com/sirpdboy/luci-theme-opentopd
-
 - kucat酷猫主题: https://github.com/sirpdboy/luci-theme-kucat
-
 - kucat酷猫主题设置工具: https://github.com/sirpdboy/luci-app-kucat-config
-
 - NFT版上网时间控制插件: https://github.com/sirpdboy/luci-app-timecontrol
-
 - 家长控制: https://github.com/sirpdboy/luci-theme-parentcontrol
-
 - 定时限速: https://github.com/sirpdboy/luci-app-eqosplus
-
 - 系统高级设置 : https://github.com/sirpdboy/luci-app-advanced
-
 - ddns-go动态域名: https://github.com/sirpdboy/luci-app-ddns-go
-
 - 进阶设置（系统高级设置+主题设置kucat/agron/opentopd）: https://github.com/sirpdboy/luci-app-advancedplus
-
 - 网络设置向导: https://github.com/sirpdboy/luci-app-netwizard
-
 - 一键分区扩容: https://github.com/sirpdboy/luci-app-partexp
-
 - lukcy大吉: https://github.com/sirpdboy/luci-app-lukcy
 
 ## 捐助
 
 ![screenshots](https://raw.githubusercontent.com/sirpdboy/openwrt/master/doc/说明3.jpg)
 
-|     <img src="https://img.shields.io/badge/-支付宝-F5F5F5.svg" href="#赞助支持本项目-" height="25" alt="图飞了😂"/>  |  <img src="https://img.shields.io/badge/-微信-F5F5F5.svg" height="25" alt="图飞了😂" href="#赞助支持本项目-"/>  | 
+|     <img src="https://img.shields.io/badge/-支付宝-F5F5F5.svg" href="#赞助支持本项目-" height="25" alt="图飞了"/>  |  <img src="https://img.shields.io/badge/-微信-F5F5F5.svg" height="25" alt="图飞了" href="#赞助支持本项目-"/>  | 
 | :-----------------: | :-------------: |
 |![xm1](https://raw.githubusercontent.com/sirpdboy/openwrt/master/doc/支付宝.png) | ![xm1](https://raw.githubusercontent.com/sirpdboy/openwrt/master/doc/微信.png) |
 
 <a href="#readme">
-    <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图飞了😂" title="返回顶部" align="right"/>
+    <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="图飞了" title="返回顶部" align="right"/>
 </a>
 
+![](https://visitor-badge-deno.deno.dev/sirpdboy.sirpdboy.svg)  [![](https://img.shields.io/badge/TG群-点击加入-FFFFFF.svg)](https://t.me/joinchat/AAAAAEpRF88NfOK5vBXGBQ)
 
-## 感谢
-
-感谢sivel、superspeed、user1121114685、ZeaKyX、佐须之男、lean等。因为有你们珠玉在前！
